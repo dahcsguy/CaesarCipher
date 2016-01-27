@@ -1,7 +1,3 @@
-/**
-* Wayne Zhang
-*/
-
 import java.net.*;
 import java.io.*;
 import java.awt.*;
